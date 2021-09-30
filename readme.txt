@@ -8,3 +8,4 @@ Create a branch is quick and simple.
 =======
 Create a branch is quick AND simple.
 >>>>>>> feature1
+add merge.
